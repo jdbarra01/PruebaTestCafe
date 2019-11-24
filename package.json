@@ -1,0 +1,15 @@
+{
+  "name": "test-cafe-project",
+  "version": "1.0.0",
+  "description": "Proyecto Prueba Falabella",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Barra",
+  "license": "Libre",
+  "dependencies": {
+    "testcafe": "^1.6.1",
+    "xpath-to-css": "^1.0.4"
+  }
+}
